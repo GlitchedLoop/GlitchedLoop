@@ -6,8 +6,15 @@ Currently learning and building across software engineering with a focus on fund
 
 I like breaking down complex problems, building things from scratch, and improving steadily in public.
 
+
 ## Currently focusing on
 
 - Learning programming fundamentals
 - Building projects
 - Exploring different domains in tech
+
+
+## Connect
+
+- X/Twitter: @GlitchedLoop3
+- LinkedIn: in/snehaaa03
